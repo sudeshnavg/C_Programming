@@ -10,3 +10,15 @@ int main()
     printf("%d", *ptr);
     
 }
+
+/*
+int main()
+{
+    int a=10;
+    int* ptr=&a;
+    
+    printf("%d\n",*ptr);
+    scanf("%d",ptr);
+    printf("%d",a);
+}
+*/
